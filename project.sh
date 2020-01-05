@@ -1,7 +1,7 @@
 #! /usr/bin/bash
 
 function file_management() {
-    while : 
+    while: 
         do
             clear
             echo "********************************************************************************"
@@ -206,7 +206,7 @@ function file_management() {
     done
 }
 
-function developer() {
+function developer(){
     echo "********************************************************************************"
     echo
     echo "                                Developed by                                    "
